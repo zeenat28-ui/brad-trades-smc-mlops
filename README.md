@@ -6,12 +6,11 @@
 
 ## Live Demo
 
-<!-- Drag and drop your 60–90s MP4 recording directly into the GitHub web editor here so it renders natively inline -->
-> **[Demo video placeholder — replace this line by dragging your `.mp4` screen recording into GitHub's editor]**
->
-> *Recommended 60–90s walkthrough: (1) Launch `AGENT 1` from Desktop and watch auto-armed live TradingView charts load across 7 markets, (2) Switch timeframes (`1D → 4H → 1H → 15m → 5m`) and scroll left to show on-demand historical bar loading, (3) Open `Settings → 2-Year Backtest` to show the 10,253-setup & 300-trade self-training summary, (4) Trigger `Test Sound` to demonstrate the 5-field alert notification + 2-minute alert ringtone.*
 
----
+
+https://github.com/user-attachments/assets/27924e32-22dd-4ea0-8dc3-781efddb1fa9
+
+
 
 ## Why This Was Built
 
