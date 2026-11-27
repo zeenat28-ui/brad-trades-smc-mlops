@@ -1,4 +1,4 @@
-# AGENT 1 — Production Market-Structure Scanner & Closed-Loop MLOps Desktop System
+# AGENT 1 — Market-Structure Scanner & Closed-Loop MLOps Desktop System
 
 *Private client build — source code is kept in a private repository to protect client IP. This repository documents the system architecture, ML evaluation methodology, production debugging lessons, and a live walkthrough.*
 
